@@ -1,0 +1,12 @@
+C:\Users\damias01\source\repos\MagicWeapon\MagicWeapon.Data\bin\Debug\MagicSword.Data.dll
+C:\Users\damias01\source\repos\MagicWeapon\MagicWeapon.Data\bin\Debug\MagicSword.Data.pdb
+C:\Users\damias01\source\repos\MagicWeapon\MagicWeapon.Data\obj\Debug\MagicWeapon.Data.csprojAssemblyReference.cache
+C:\Users\damias01\source\repos\MagicWeapon\MagicWeapon.Data\obj\Debug\MagicWeapon.Data.csproj.CoreCompileInputs.cache
+C:\Users\damias01\source\repos\MagicWeapon\MagicWeapon.Data\obj\Debug\MagicSword.Data.dll
+C:\Users\damias01\source\repos\MagicWeapon\MagicWeapon.Data\obj\Debug\MagicSword.Data.pdb
+C:\Users\damias01\source\repos\WorkAlong.MagicWeapon\MagicWeapon.Data\bin\Debug\MagicWeapon.Data.dll
+C:\Users\damias01\source\repos\WorkAlong.MagicWeapon\MagicWeapon.Data\bin\Debug\MagicWeapon.Data.pdb
+C:\Users\damias01\source\repos\WorkAlong.MagicWeapon\MagicWeapon.Data\obj\Debug\MagicWeapon.Data.csproj.CoreCompileInputs.cache
+C:\Users\damias01\source\repos\WorkAlong.MagicWeapon\MagicWeapon.Data\obj\Debug\MagicWeapon.Data.dll
+C:\Users\damias01\source\repos\WorkAlong.MagicWeapon\MagicWeapon.Data\obj\Debug\MagicWeapon.Data.pdb
+C:\Users\damias01\source\repos\WorkAlong.MagicWeapon\MagicWeapon.Data\obj\Debug\MagicWeapon.Data.csprojAssemblyReference.cache
