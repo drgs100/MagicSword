@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MagicWeapon.Data.Models.MagicWeapons>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Magic weapons</h1>
+    <p>There are @Model.Count() available.</p>
+    
+    <ul>
+        @{
+            foreach (var weapon in Model)
+            {
+                <li>@weapon.Name - @weapon.Type</li>                
+            }
+        }
+        </ul>
+</div>
